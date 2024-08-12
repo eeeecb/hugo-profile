@@ -118,9 +118,9 @@ params:
     enableSeparator: false
     menus:
       disableAbout: false
-      disableExperience: false
-      disableEducation: false
-      disableProjects: false
+      disableExperiencia: false
+      disableEducação: false
+      disableProjetos: false
       disableAchievements: false
       disableContact: false
 
@@ -131,7 +131,7 @@ params:
     title: "Isabella."
     subtitle: "I build things for the web"
     content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that look great, feel fantastic, and function correctly."
-    image: /images/hero.svg
+    image: /images/eduardo.png
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -155,7 +155,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/me.png"
+    image: "/images/eduardo.png"
     content: |-
       I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA.
 
@@ -171,7 +171,7 @@ params:
         - "Node"
         - "Express"
 
-  # Experience
+  # Experiencia
   experience:
     enable: true
     # title: "Custom Name"
@@ -236,7 +236,7 @@ params:
         date: "Feb 2016 - Mar 2017"
         content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
 
-  # Education
+  # Educação
   education:
     enable: true
     # title: "Custom Name"
